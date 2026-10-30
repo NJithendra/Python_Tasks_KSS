@@ -1,0 +1,35 @@
+Python 3.15.0 (tags/v3.15.0:d220409, Oct  9 2026, 11:55:56) [MSC v.1951 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+>>> 
+============================================== RESTART: C:\Users\narah\OneDrive\Desktop\task\1st task\Input  Output Functions\Greeting.py ==============================================
+Enter your name:JITHENDRA
+HelloJITHENDRAWelcome to this platform
+>>> 
+=========================================== RESTART: C:/Users/narah/OneDrive/Desktop/task/1st task/Input  Output Functions/Print_their_sum.py ==========================================
+7
+5
+sum
+>>> 
+>>> 
+>>> 
+>>> 
+>>> 
+>>> 
+>>> 
+=========================================== RESTART: C:/Users/narah/OneDrive/Desktop/task/1st task/Input  Output Functions/Print_their_sum.py ==========================================
+Traceback (most recent call last):
+  File "C:/Users/narah/OneDrive/Desktop/task/1st task/Input  Output Functions/Print_their_sum.py", line 2, in <module>
+    a = int("input('7')")
+ValueError: invalid literal for int() with base 10: "input('7')"
+>>> 
+=========================================== RESTART: C:/Users/narah/OneDrive/Desktop/task/1st task/Input  Output Functions/Print_their_sum.py ==========================================
+7
+Traceback (most recent call last):
+  File "C:/Users/narah/OneDrive/Desktop/task/1st task/Input  Output Functions/Print_their_sum.py", line 2, in <module>
+    a = int(input('7'))
+ValueError: invalid literal for int() with base 10: ''
+>>> 
+=========================================== RESTART: C:/Users/narah/OneDrive/Desktop/task/1st task/Input  Output Functions/Print_their_sum.py ==========================================
+Enter the First Number: 7
+Enter the Second Number: 5
+The Sum is: 12.0
