@@ -1,0 +1,16 @@
+#Smart Home Devices (Multiple Inheritance)
+
+class WiFiDevice:
+    def wifi(self):
+        print("WiFi Connected")
+class VoiceAssistant:
+    def voice(self):
+        print("Voice Control Activated")
+class SmartSpeaker(WiFiDevice, VoiceAssistant):
+    def display(self):
+        print("Smart Speaker is Ready")
+s = SmartSpeaker()
+
+s.wifi()
+s.voice()
+s.display()
