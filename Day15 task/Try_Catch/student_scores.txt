@@ -1,0 +1,2 @@
+{'Jithendra': 85, 'Rahul': 45, 'Ravi': 65, 'Arun': 40}
+Average: 59
